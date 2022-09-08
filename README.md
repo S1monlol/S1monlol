@@ -14,7 +14,7 @@ If youd like you can visit my [portfolio](https://simon.lgbt/)
 <br>
 
 - 🌎 I'm from the United States
-- 👨🏻‍💻 Im pationate programming and gaming
+- 👨🏻‍💻 Im pationate about programming and gaming
 - 💭 I dream of becoming a backend developer for multiple small companies 
 - 📧 Reach me via simonn@duck.com
 
