@@ -3,7 +3,7 @@
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=S1monlol&style=flat-square&color=blueviolet">
 
-I'm a back-end developer
+I'm a fullstack developer, although I specialize in backend 
 
 I've been doing IT since I was 12, making random scripts and websites whenever I have an idea 
 
