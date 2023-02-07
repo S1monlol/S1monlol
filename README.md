@@ -1,7 +1,7 @@
 
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-# 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=S1monlol&style=flat-square&color=blueviolet">
+# Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=S1monlol&style=flat-square&color=blueviolet">
 
 I'm a fullstack developer, although I specialize in backend 
 
