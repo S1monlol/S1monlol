@@ -5,9 +5,9 @@
 
 I'm a fullstack developer, although I specialize in backend 
 
-I've been doing IT since I was 12, making random scripts and websites whenever I have an idea 
+I've been coding since I was 12
 
-If youd like you can visit my [portfolio](https://simon.lgbt/)
+If youd like you can visit my [portfolio](https://simo.ng/)
 
 ## 👨🏻‍💻 About me
 
