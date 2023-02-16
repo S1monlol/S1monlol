@@ -16,7 +16,7 @@ If youd like you can visit my [portfolio](https://simo.ng/)
 - 🌎 I'm from the United States
 - 👨🏻‍💻 Im pationate about programming and gaming
 - 💭 I dream of becoming a backend developer 
-- 📧 Reach me via simo.ng
+- 📧 Reach me via simon@simo.ng
 
 <br>
 <br>
