@@ -7,20 +7,16 @@ I'm a fullstack developer, although I specialize in backend
 
 I've been coding since I was 12
 
-If youd like you can visit my [portfolio](https://simo.ng/)
+If you'd like you can visit my [portfolio](https://simo.ng/)
 
 ## 👨🏻‍💻 About me
 
-<br>
-
 - 🌎 I'm from the United States
 - 👨🏻‍💻 Im pationate about programming and gaming
-- 💭 I dream of becoming a backend developer 
+- 💭 I dream of becoming a professional fullstack developer 
 - 📧 Reach me via simon@simo.ng
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
